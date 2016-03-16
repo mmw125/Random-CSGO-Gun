@@ -1,0 +1,34 @@
+both:
+P250
+Desert Eagle
+Dual Berettas
+Nova
+MP7
+AWP
+SSG 08
+PP-Bizon
+UMP-45
+P90
+XM1014
+M249
+Negev
+
+ct:
+P2000
+Five SeveN
+Mag-7
+MP9
+FAMAS
+M4
+AUG
+SCAR-20
+
+t:
+Glock-18
+Tec-9
+Sawed-Off
+MAC-10
+Galil AR
+AK-47
+SG 553
+G3SG1
